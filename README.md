@@ -1,6 +1,7 @@
 # mogplProject
 Modélisation et optimisation des charges d'unités de soins par la programmation linéaire et les graphes
 
+Ce travail a été fait dans le cadre d'un projet de l'UE MOGPL du semestre 1 Master 1 STL 2020 / 2021 par Benslimane Amine et Cécile Giang.
 
 === EXERCICE 1: 'projetMOGPL_exo1.py'
 
